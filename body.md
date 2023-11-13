@@ -8,7 +8,11 @@ main
 5. MATLAB 언어 기초 문제집
 6. GO 언어 기초 문제집
 7. R 언어 기초 문제집
-8. JAVA SCRIPT 언어 기초 문제집
+8. SQL 언어 기초 문제집
+9. PHP 언어 기초 문제집
+10. Javascript 언어 기초 문제집
+11. Assembly 언어 기초 문제집
 
 side
 1. 많이 사용하는 언어 순위
+2. 대회 일정
